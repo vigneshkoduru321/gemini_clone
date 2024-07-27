@@ -20,10 +20,6 @@ const Main = () => {
     setInput(e.target.value);
   };
 
-  let onClickInput = () => {
-    console.log("clicked");
-  };
-
   return (
     <div className="main">
       <div className="top-container">
